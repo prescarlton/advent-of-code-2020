@@ -17,7 +17,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | Day | Name | Stars | 
 |---|:---:|:---:|
 | 1 | [Report Repair](https://github.com/prescarlton/advent-of-code-2020/tree/main/day-1) | ⭐️⭐️ |
-| 2 | -- | -- |
+| 2 | [Password Philosophy](https://github.com/prescarlton/advent-of-code-2020/tree/main/day-2) | ⭐️⭐️ |
 | 3 | -- | -- |
 | 4 | -- | -- |
 | 5 | -- | -- |
