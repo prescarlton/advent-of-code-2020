@@ -40,11 +40,15 @@ Using the above example again, the three entries that sum to 2020 are 979, 366, 
 
 In your expense report, what is the product of the three entries that sum to 2020?
 
-### PART ONE EXPLANATION:
+
+Explanations
+--
+
+### Part one:
 This'n here loops through the expense report, and checks to see if 2020-i is in the list.
 If it is in the list, we found our number! We print (i*(2020-i)) to the console.
 
-### PART TWO EXPLANATION:
+### Part two:
 This bad boy works with some sick nested for-loops.
 On the first loop (num: i), we start another loop (num: j).
 In j's loop, if i+j < 2020, we start another loop (num: k).
